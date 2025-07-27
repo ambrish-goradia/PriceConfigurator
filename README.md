@@ -1,0 +1,2 @@
+# PriceConfigurator
+Laravel Livewire Test
